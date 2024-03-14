@@ -1,7 +1,7 @@
 # DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Experiencias gastronómicas ) 
 
-Grupo: DIU1_01AABB.  Curso: 2023/24 
+Grupo: DIU2_01MiG's.  Curso: 2023/24 
 Updated: 11/2/2024
 
 Proyecto: 
@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Ángel Muñoz Cortés     :octocat:     
+ * :bust_in_silhouette:  Ane Anta Iriondo     :octocat:
 
 ----- 
 
