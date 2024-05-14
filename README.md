@@ -8,10 +8,11 @@ Proyecto: Sabor y Saber
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Sabor y Saber se dedica a promover la pasión por la cocina a través de su página web, ofreciendo una amplia variedad de talleres personalizados y experiencias culinarias únicas. Nuestra plataforma permite a los usuarios explorar clases tanto populares como menos conocidas, así como participar en funciones interactivas como guardar recuerdos de las experiencias y seguir a otros usuarios y chefs. Nuestra estrategia se basa en la investigación de mercado y en la retroalimentación de los usuarios para ofrecer constantemente un servicio diferenciado y atractivo.
 
-Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+Logotipo:
+
+<img src="P3/logo.jpg" width="220" height="200">
 
 Miembros
  * :bust_in_silhouette:   Ángel Muñoz Cortés     :octocat:     
