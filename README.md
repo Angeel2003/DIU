@@ -145,12 +145,14 @@ Memoria completa [aquí](P2/Práctica_2-Ideación_Y_Diseño.pdf)
 
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
+
 Hemos creado un tablón inspiracional dónde hemos recogido ideas para realizar el estilo visual de nuestra aplicación Sabor y Saber.
 En él, hemos definido el logo de nuestra aplicación sobre el fondo de los dos colores predominantes, nuestra tipografía que consta de dos funtes diferentes y 4 tamaños según el tipo de texto que sea, una paleta de colores, un labeling de iconos y varias fotos de inspiración.
-![](MOODBOARD.png)
+![](P3/MOODBOARD.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
+
 Buscamos una presentación de nuestro proyecto de una manera atractiva para el usuario. Para ello, nos hemos ayudado de la herramienta [Webflow](https://webflow.com/). Se puede visualizar comodamente a través de este [enlace](https://pagina-principal-1403fc.webflow.io/).
 
 Nuestra landing page cuenta con una cabecera con el logotipo de nuestra empresa y un menu de navgación por las diferentes secciones de nuestra página web, a parte de un apartado para la cuenta del usuario y su cesta.
@@ -158,6 +160,7 @@ El body de cuenta con una imagen inspiradora y un botón de descarga de nuestra 
 Finalmente tenemos un pie de página con nuestro logotipo al completo y enlacens de interés para el cliente.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
+
 
 ### Página Principal
 La página principal presenta un header con botones de navegación y acceso al inicio de sesión y perfil del usuario. En el body, hay un carrousel de imágenes destacadas de cursos y una lista de temas destacados del foro.
@@ -194,6 +197,7 @@ Hemos desarrolado los bocetos realizados en la práctica anterior para dar forma
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
+
 En conclusión, hemos conseguido darle forma a nuestra web. Esta ha sido una tarea algo laboriosa que nos ha llevado bastante esfuerzo y tiempo realizar, aunque finalmente hemos obtenido un buen resultado. Es primordial seguir los pasos de investigación indicados para su ejecución para obtener un correcto trabajo.
 
 
