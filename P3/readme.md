@@ -29,8 +29,7 @@ Para el foro, el header es similar al de inicio de sesión y registro. El body c
 ### Curso
 En cuanto al curso, el header es similar al de inicio de sesión y registro. En el body, hay un date picker para ver disponibilidad de cursos en fechas específicas.
 
-Los elementos no especificados no son patrones IU o guidelines sino imágenes y cuadros
-de texto.
+Los elementos no especificados no son patrones IU o guidelines sino imágenes y cuadros de texto.
 
 ## Mockup: LAYOUT HI-FI
 Hemos desarrolado los bocetos realizados en la práctica anterior para dar forma a nuestra web. En esta carpeta se encuentra el archivo figma para poder verlos.
