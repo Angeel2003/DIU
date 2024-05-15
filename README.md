@@ -190,11 +190,20 @@ Hemos desarrolado los bocetos realizados en la práctica anterior para dar forma
 
 - En todas las páginas puedes hacer scroll en vertical para poder visualizar la página de manera completa y si pulsas en el logotipo del header podrás volver a la página principal desde cualquier otra página.
 
-  (FOTOS)
-  (FOTOS)
-  (FOTOS)
-  (FOTOS)
-  (FOTOS)
+ ### Página Principal
+![](P3/LAYOUTS/PaginaPrincipal.jpg)
+
+### Inicio de Sesión y Registro
+![](P3/LAYOUTS/InicioSesion.jpg)
+
+### Cuenta
+![](P3/LAYOUTS/Cuenta.jpg)
+
+### Foro
+![](P3/LAYOUTS/Foro.jpg)
+
+### Curso
+![](P3/LAYOUTS/Curso.jpg)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
