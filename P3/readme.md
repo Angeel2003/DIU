@@ -41,11 +41,20 @@ Hemos desarrolado los bocetos realizados en la práctica anterior para dar forma
 
 - En todas las páginas puedes hacer scroll en vertical para poder visualizar la página de manera completa y si pulsas en el logotipo del header podrás volver a la página principal desde cualquier otra página.
 
-  (FOTOS)
-  (FOTOS)
-  (FOTOS)
-  (FOTOS)
-  (FOTOS)
+### Página Principal
+![](LAYOUTS/PaginaPrincipal.jpg)
+
+### Inicio de Sesión y Registro
+![](LAYOUTS/InicioSesion.jpg)
+
+### Cuenta
+![](LAYOUTS/Cuenta.jpg)
+
+### Foro
+![](LAYOUTS/Foro.jpg)
+
+### Curso
+![](LAYOUTS/Curso.jpg)
 
 ## Documentación: Publicación del Case Study
 En conclusión, hemos conseguido darle forma a nuestra web. Esta ha sido una tarea algo laboriosa que nos ha llevado bastante esfuerzo y tiempo realizar, aunque finalmente hemos obtenido un buen resultado. Es primordial seguir los pasos de investigación indicados para su ejecución para obtener un correcto trabajo.
