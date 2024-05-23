@@ -189,7 +189,7 @@ Hemos desarrolado los bocetos realizados en la práctica anterior para dar forma
 - En el foro puedes pulsar la search bar y hacer scroll en ambos carruseles al igual que en la página principal. Si pulsas en el texto de "último curso" podrás acceder al mismo para informarte y ver próximas fechas.
 
 - En todas las páginas puedes hacer scroll en vertical para poder visualizar la página de manera completa y si pulsas en el logotipo del header podrás volver a la página principal desde cualquier otra página.
-![Enlace a la página](https://www.figma.com/design/GkTu1LL3jkEz0wAi8sXNyx/Pagina-principal?node-id=35%3A2&t=tH2i28tPt7Wlo244-1)
+[Enlace a la página](https://www.figma.com/design/GkTu1LL3jkEz0wAi8sXNyx/Pagina-principal?node-id=35%3A2&t=tH2i28tPt7Wlo244-1)
  ### Página Principal
 ![](P3/LAYOUTS/PaginaPrincipal.jpg)
 
