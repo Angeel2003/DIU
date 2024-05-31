@@ -162,6 +162,11 @@ Finalmente tenemos un pie de página con nuestro logotipo al completo y enlacens
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 
+<video width="320" height="240" controls>
+  <source src="P3/Mockup-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ### Página Principal
 La página principal presenta un header con botones de navegación y acceso al inicio de sesión y perfil del usuario. En el body, hay un carrousel de imágenes destacadas de cursos y una lista de temas destacados del foro.
