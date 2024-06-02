@@ -221,10 +221,7 @@ El caso que se nos ha sido asignado es el del grupo DIU2_Fanculos, que definen s
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
-----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+---- 
 
 | Usuarios | Sexo/Edad |       Ocupación        |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | -------- | --------- | ---------------------- | ----------- | -----------  | ---------- | ----
@@ -234,10 +231,15 @@ El caso que se nos ha sido asignado es el del grupo DIU2_Fanculos, que definen s
 |  Laura   |  M / 48   | Maestra de secundaria  | Intermedia  |  Divertida   |  Windows   | B 
 
 
+DESCRIPCION
+
+
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
-![](P4/)
+![](P4/Cuestionario_SUS.png)
+
+La aplicación A obtuvo un promedio de 80 puntos, mientras que la aplicación B obtuvo un promedio de 78.75 puntos. Esto sugiere que, en general, la aplicación A es ligeramente preferida sobre la aplicación B en términos de usabilidad. En la aplicación A, la diferencia entre las valoraciones de los dos usuarios es de 5 puntos (82.5 y 77.5). En la aplicación B, la diferencia es más pronunciada, con 7.5 puntos (82.5 y 75). Esto podría indicar una mayor inconsistencia en la percepción de usabilidad entre diferentes tipos de usuarios para la aplicación B. 
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
