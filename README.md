@@ -217,11 +217,13 @@ En conclusión, hemos conseguido darle forma a nuestra web. Esta ha sido una tar
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-El caso que se nos ha sido asignado es el del grupo DIU2_Fanculos, que definen su aplicacion como una empresa que irrumpa con fuerza en el sector. Se asegurarán que los clientes vivan una experiencia que sea digna de ser contada. En Sabores del Mundo ofertarán una serie de cursos adaptados a todos los niveles y de los lugares más variopintos del planeta, que no sólo se reduce a enseñar a cocinar sino también tendrá una ambientación digna de ese país.
-
+El caso que se nos ha sido asignado es el del grupo [DIU2_Fanculos](https://github.com/rubenmongon/diu), que definen su aplicacion como una empresa que irrumpa con fuerza en el sector. Se asegurarán que los clientes vivan una experiencia que sea digna de ser contada. En Sabores del Mundo ofertarán una serie de cursos adaptados a todos los niveles y de los lugares más variopintos del planeta, que no sólo se reduce a enseñar a cocinar sino también tendrá una ambientación digna de ese país.
+![](img/logotipo_fanculos.png)
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ---- 
+
+Hemos simulado mediante la técnica de uso de los dados algunas personas. El resultado de la aplicación de esta es la siguiente:
 
 | Usuarios | Sexo/Edad |       Ocupación        |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | -------- | --------- | ---------------------- | ----------- | -----------  | ---------- | ----
@@ -244,44 +246,26 @@ La aplicación A obtuvo un promedio de 80 puntos, mientras que la aplicación B 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
+En cuanto a usability report, a continuación adjuntamos el enlace e insistimos en la lectura del documento [Usability Report](P4/InformeDeUsabilidad_Fanculos.pdf).
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+En cuanto a la valoración personal:
 
+- Tiene una interfaz bien definida y estructurada.
+- La paleta de colores elegida es agradable visualmente y la agrupación de información ha sido una buena decisión, ya que mantiene la simetría.
 
+Aunque:
+- Carece deciertas funcionalidades en cuanto a recordar y manejar los talleres de distintas formas.
 
->>> Valoración personal 
+Estos son los resultados del Eye Tracking realizado a la aplicación Sabores Del Mundo que hemos obtenido.
 
-
-
-
-
-5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
-----
-
-
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
-
-
-
-
-
-
-## Conclusión final / Valoración de las prácticas
-
-
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
-
-
-
-
-
-
-
-
-
+<p float="left">
+  <img src="P4/EyeTracking/SaboresDelMundo_(Caso_B)/MapaCalor_1.png" width="220" />
+  <img src="P4/EyeTracking/SaboresDelMundo_(Caso_B)/MapaCalor_2.png" width="220" /> 
+  <img src="P4/EyeTracking/SaboresDelMundo_(Caso_B)/MapaCalor_3.png" width="220" /> 
+</p>
+<p float="left">
+  <img src="P4/EyeTracking/SaboresDelMundo_(Caso_B)/MapaCalor_4.png" width="220" />
+  <img src="P4/EyeTracking/SaboresDelMundo_(Caso_B)/MapaCalor_5.png" width="220" /> 
+  <img src="P4/EyeTracking/SaboresDelMundo_(Caso_B)/MapaCalor_6.png" width="220" /> 
+</p>
 
